@@ -1,0 +1,10 @@
+spring\gl\SD_CRUD\entity\Student.class
+spring\gl\SD_CRUD\service\IStudentService.class
+spring\gl\SD_CRUD\service\IStudentServiceImpl.class
+spring\gl\SD_CRUD\entity\User.class
+spring\gl\SD_CRUD\entity\Role.class
+spring\gl\SD_CRUD\StudentDebateCrudApplication.class
+spring\gl\SD_CRUD\controller\StudentController.class
+spring\gl\SD_CRUD\repository\IRoleRepository.class
+spring\gl\SD_CRUD\repository\IStudentRepository.class
+spring\gl\SD_CRUD\repository\IUserRepository.class
